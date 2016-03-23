@@ -1,0 +1,6 @@
+(customize-set-variable 'frame-background-mode 'dark)
+(load-theme 'solarized t)
+(setq sml/no-confirm-load-theme t)
+(setq sml/no-confirm-load-theme t)
+(sml/setup)
+(provide 'init-custom-theme)
