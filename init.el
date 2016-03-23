@@ -16,7 +16,7 @@
 ;; plugins  loading
 ;;----------------------------------------------------------------------------
 (require 'init-smartparens)
-(require 'init-flymake)
+;;(require 'init-flymake)
 (require 'init-yasnippet)
 (require 'init-company)
 (require 'init-window)
